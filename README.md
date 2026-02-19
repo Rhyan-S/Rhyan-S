@@ -18,6 +18,8 @@ Ferramentas que utilizo: Engines de jogos (Godot, GameMaker, etc...), Microcontr
 - Angular
 - HTML/CSS/JavaScript
 
+![My Skills](https://skillicons.dev/icons?i=java,spring,androidstudio,python,c,cpp,js,html,css,angular)
+
 ## Open to Work 🔥
   Isso mesmo, estou disponível para novas oportunidades!
       
